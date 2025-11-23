@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include "funzioni.h"
 
-int addizione();
-int sottrazione();
-int moltiplicazione();
-int divisione();
-
 int main() {
     char scelta;
     int ris;
@@ -31,3 +26,4 @@ int main() {
 
     return 0;
 }
+
